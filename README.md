@@ -10,10 +10,10 @@ Matlab base package + image processing toolbox (tested with Matlab 2022b)
 
    Images (maximum intensity projections):
    1) Segmented nuclei (if ShowNucImg == 1)
-   2) Cilia candidates (thin red), primary cilia (green),
-      Nuclei with (magenta) and without (red) primary cilium,
+   2) Cilia candidates (thin red), primary cilia (green)<br>
+      Nuclei with (magenta) and without (red) primary cilium<br>
       Nuclei centroids (blue), primary cilia bases (yellow)
-   3) Nuclei with valid primary cilium (blue),
+   3) Nuclei with valid primary cilium (blue)<br>
       Color-coded main measurement centered on cilia bases
 
     Matlab log:
