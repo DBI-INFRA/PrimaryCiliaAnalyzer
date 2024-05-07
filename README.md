@@ -1,4 +1,4 @@
-**Requirements**: 
+**Requirements**:<br>
 Matlab base package + image processing toolbox (tested with Matlab 2022b)
 
 **Usage:**
