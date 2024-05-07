@@ -1,12 +1,12 @@
-Requirements: 
+**Requirements**: 
 Matlab base package + image processing toolbox (tested with Matlab 2022b)
 
-Usage:
+**Usage:**
   - Download the repository and unzip the sample image
   - Run the Matlab script (double click file and press green arrow in Matlab)
   - Refer to detailed instructions in the script file
 
-Output:
+**Output:**
 
    Images (maximum intensity projections):
    1) Segmented nuclei (if ShowNucImg == 1)
